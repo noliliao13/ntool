@@ -1,5 +1,4 @@
 import React from 'react';
-import styles from './index.less';
 import TimeInfo from './components/TimeInfo';
 import { Card, Col, Row } from 'antd';
 
